@@ -45,18 +45,6 @@ Fetch API + async/await kullanarak gerçek zamanlı hava durumu.
 
 ---
 
-## 📊 GitHub İstatistikleri
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mertalibenli&show_icons=true&theme=react" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertalibenli&layout=compact&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertalibenli&theme=react" />
-</p>
-
----
-
 ## 📫 Bana Ulaş
 - 💼 LinkedIn: (ekleyince buraya koyabilirsin)  
 - 📧 E-posta: **(mail adresin)**
